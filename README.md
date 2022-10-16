@@ -1,5 +1,5 @@
 - # 💫 About Me:
-👋 Hi, I’m @tazanaun<br>👀 I’m interested in data science/analysis and web development<br>🌱 I’m currently working on building my own website<br>💪🏼 I’m looking to collaborate on all sorts of projects so hit me up<br>📫 You can reach me at tazaali49@gmail.com<br><br>
+👋 Hi, I’m @tazanaun<br>👀 I’m interested in data science/analysis and web development<br>🌱 I’m currently working on growing my own portfolio<br>💪🏼 I’m looking to collaborate on all sorts of projects so hit me up<br>📫 You can reach me at tazaali49@gmail.com<br><br>
 
 
 ## 🌐 Socials:
